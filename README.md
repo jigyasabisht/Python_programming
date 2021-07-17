@@ -12,7 +12,11 @@
            >> try          
            >> except          
            >> raise     
-## File Handling       
+## File Handling            
+          >> read       
+          >> write      
+          >> append       
+          >> seek       
                 
 All these concepts I studied and practiced.     
 Here are the codes and in-built functions of **Python** performed in **jupyter notebook**.        
