@@ -8,7 +8,10 @@
          >> Sets         
 ## Functions       
 ## Object Oriented Programming (OOPs concept)          
-## Exceptional Handling        
+## Exceptional Handling         
+           >> try          
+           >> except          
+           >> raise     
 ## File Handling       
                 
 All these concepts I studied and practiced.     
