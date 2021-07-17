@@ -6,8 +6,21 @@
          >> Tuples           
          >> Dictinory       
          >> Sets         
-## Functions       
-## Object Oriented Programming (OOPs concept)          
+## Functions         
+         >> Return statement        
+         >> local and global variable           
+         >> default argument values        
+         >> Packing arguments       
+         >> Lambda functions         
+         >> Decorators        
+         >> *args and **kwargs
+## Object Oriented Programming (OOPs concept)      
+         >> __init__ method     
+         >> Dunders and magic function          
+         >> Inheritance         
+         >> Polymorphism         
+         >> Encapsulation               
+         >> Abstraction       
 ## Exceptional Handling         
            >> try          
            >> except          
